@@ -1,0 +1,4 @@
+3 // cantidad de redes en el sistema
+1 10 1 0 0.1 0.4 // primera cola
+2 10 4 0.6 0 0.4 // segunda cola
+1 10 3 0.3 0.3 0 // tercera cola

@@ -17,3 +17,8 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+#git remote add origin https://github.com/amontrn13/IOprogra2.git
+#git push -u origin master
+
+#python src.py text.txt
